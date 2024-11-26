@@ -1,10 +1,10 @@
-EXP-07
-DATE	Exploration of Prompting Techniques for Audio Generation
-                                                                                                                         RAGUL A C (212221240042)
+### EXP-07
+### DATE	Exploration of Prompting Techniques for Audio Generation
+                                            ## Developed by                                         RAGUL A C (212221240042)
 
-AIM
+### AIM
 To explore various prompting techniques for generating audio using AI models. The goal is to understand how different types of prompts influence the generation of audio, such as music, sound effects, or speech, and how to optimize these prompts for specific needs.
-PROCEDURE
+### PROCEDURE
 1. Understanding the Basics of Audio Generation with AI
 Familiarize yourself with AI audio tools like:
 Google MusicLM: Text-to-music generation.
